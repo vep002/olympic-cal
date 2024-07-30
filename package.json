@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^105.0.0",
+    "ical": "^0.8.0",
+    "moment-timezone": "^0.5.45"
+  }
+}
